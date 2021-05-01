@@ -1,0 +1,17 @@
+.sidebar {
+	background: black;
+}
+
+.sidebar-option {
+	cursor: pointer;
+	font-size: 14px;
+	color: gray;
+}
+
+.sidebar-option:hover {
+	color: white;
+}
+
+.sidebar-option.selected {
+	color: white;
+}
